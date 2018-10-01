@@ -1,0 +1,14 @@
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\bin\Release\Work_Tool.exe.config
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\bin\Release\Work_Tool.exe
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\bin\Release\Work_Tool.pdb
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\bin\Release\bonusGas.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\bin\Release\electricityBonus.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\bin\Release\gasAndElectrycityEstimation.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\bin\Release\productivity.dll
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\obj\Release\Work_Tool.Form1.resources
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\obj\Release\Work_Tool.Properties.Resources.resources
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\obj\Release\Work_Tool.csproj.GenerateResource.Cache
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\obj\Release\Work_Tool.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\obj\Release\Work_Tool.exe
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\obj\Release\Work_Tool.pdb
+C:\Users\Cosmin\Desktop\C#\proiecte\Work Tool\Work_Tool\Work_Tool\obj\Release\Work_Tool.csprojResolveAssemblyReference.cache
